@@ -1,0 +1,586 @@
+akana,acum
+akhor,nucă
+ambrol,pară
+an!,adu!
+gad,cămașă
+gav,sat
+gono,sac
+gonorro,ghiozdan
+grast,cal
+kak,unchi
+kalo,negru
+kan,ureche
+kana?,când?
+kòkalo,os
+kon,cine
+lolo,roșu
+lolo gad,cămaşă roşie
+lon,sare
+na!,nu!
+naj,deget
+nakh,nas
+nango,gol
+o kak,unchiul
+o kan,urechea
+o lon,sarea
+raklo,copil nerrom
+śośoj,iepure
+Kako,an o gono!,Unchiule adu sacul!
+Kako,na an o gono!,Unchiule nu adu sacul!
+An! – Na an!,Adu! – Nu adu!
+Àna,an o gono!,Ana adu sacul!
+Àna,na an o gono!,Ana nu adu sacul!
+Àna,an o lon!,Ana adu sarea!
+Te siklǒvas anθ-i sàla!,Să învățăm în clasă!
+anel,aduce
+bibi,mătușă
+šare,farfuriile
+šaro,farfurie
+šhuri,cuțit
+kiral,brânză
+loli skafedi,față de masă roșie
+marro,pâine
+mas,carne
+mol,vin
+pani,apă
+phral,frate
+rikono,cățel
+rroj,lingură
+rroja,lingurile
+śax,varză
+sinìa,masă
+skafedi,față de masă
+tha‘,dar
+thaj,și
+thud,lapte
+Ina,an i loli skafedi,na i kali skafedi!,Ina adu fața de masă roşie nu fața de masă neagră!
+Kon anel e rroja?,Cine aduce lingurile?
+O phral anel o lon?,Fratele aduce sarea?
+Va,vov anel o lon.,Da el aduce sarea.
+I phen so anel?,Sora ce aduce?
+Voj anel o pani.,Ea aduce apa.
+So anel o kak?,Ce aduce unchiul?
+Vov anel i loli mol.,El aduce vinul roșu.
+Tu so anes?,Tu ce aduci?
+Me anav o marro.,Eu aduc pâinea.
+Thaj von so anen?,Și ei ce aduc?
+Von anen e šare.,Ei aduc farfuriile.
+Ame so anas?,Noi ce aducem?
+Ame anas o thud thaj o kiral.,Noi aducem laptele și brânza.
+I bibi anel o kòkalo?,Mătușa aduce osul?
+Na,i bibi anel i šhuri.,Nu mătușa aduce cuțitul.
+O dad thaj i daj anen o śax thaj o mas.,Tatăl și mama aduc varza și carnea.
+Tha‘ o rikono so anel vi vov?,Dar cățelul ce aduce și el?
+Vov anel o kòkalo.,El aduce osul.
+me anav,eu aduc
+ame anas,noi aducem
+tu anes,tu aduci
+tume anen,voi aduceți
+vov anel,el aduce
+von anen,ei aduc
+anθar,din
+anθ-o kher,în casă
+balo,porc
+barorro,măricel
+baśno,cocoş
+baxtalo,norocos
+bokhalo,flămând
+but,mult
+šhavo,băiat
+šušo,gol
+dikhlo,batic
+duj,doi
+fèri,numai
+gàlbeno,galben
+gaʒo,gajeu
+kadaja,aceasta
+kadala,aceştia
+kadava,acesta
+kaj,unde
+kakaràśka,coŝofană
+kathe,aici
+kazom,cât
+kodola,aceia
+kothe,acolo
+nevo,nou
+nìśte,nişte
+parno,alb
+pherdo,plin
+phurt,pod
+purano,vechi
+rukh,copac
+si,este
+śaxorro,verzişoară
+śtar,patru
+śukar,frumos
+telal,sub
+terno,tânăr
+ušo,înalt
+vaj,sau
+veśno,pădurar
+vi,și de asemenea
+xuxurr,ciupercă
+zèleno,verde
+źïlto,galben
+zoralo,puternic
+ʒeno,persoană
+ʒukel,câine
+o rrom,omul
+Kon si kadava?,Cine este acesta?
+Kadava si jekh rrom.,Acesta este un rrom.
+o ʒeno,persoana
+Kazom ʒene si kathe?,Câți inși sunt aici?
+Kathe si jekh ʒeno.,Aici este un ins.
+Kon si o ʒeno?,Cine este persoana?
+O ʒeno si jekh rrom.,Persoana este un rrom.
+Sar si o rrom?,Cum este persoana rromă?
+O rrom si zoralo.,Omul rrom este puternic.
+Kathe si jekh manuś.,Aici este un om.
+So si kadava?,Ce este acesta?
+Kadava si jekh sap.,Acesta este un șarpe.
+Sar si o sap?,Cum este șarpele?
+O sap si zoralo.,Șarpele este puternic.
+Kadava si o lil.,Aceasta este cartea.
+Sar si o lil?,Cum este cartea?
+O lil si tikno.,Cartea este mică.
+Kaj si kadava lil?,Unde este această carte?
+Kadava lil si kathe.,Această carte este aici.
+Kadava si jekh kher.,Acesta este o casă.
+Kadava si o xuxurr.,Aceasta este o ciupercă.
+Sar si o xuxurr?,Cum este ciuperca?
+O xuxurr si lolo.,Ciuperca este roșie.
+e rroma,romii
+Kon si kadala?,Cine sunt aceștia?
+Kadala si nìśte rroma.,Aceștia sunt niște rromi.
+e ʒene,persoanele
+Kathe si duj ʒene.,Aici sunt doi inși.
+Kon si e ʒene?,Cine sunt persoanele?
+E ʒene si nìśte rroma.,Persoanele sunt niște rromi.
+Sar si e rroma?,Cum sunt persoanele rrome?
+E rroma si zorale.,Rromii sunt puternici.
+Kothe si nìśte manuśa.,Aici sunt niște oameni.
+So si kodola?,Ce sunt aceștia?
+Kodola si nìśte sapa.,Aceia sunt niște șerpi.
+Sar si e sapa?,Cum sunt șerpii?
+Kadala sapa si zorale.,Acești șerpi sunt puternici.
+Kadala si lila.,Acestea sunt cărți.
+Sar si e lila?,Cum sunt cărțile?
+E lila si tikne.,Cărțile sunt mici.
+Kaj si kadala lila?,Unde sunt aceste cărți?
+Kadala lila si kathe.,Aceste cărți sunt aici.
+Kadala si nìśte khera.,Acestea sunt niște case.
+So si kodola?,Ce sunt acelea?
+Kodola si e xuxurra.,Acelea sunt niște ciuperci.
+Sar si e xuxurra?,Cum sunt ciupercile?
+E xuxurra si lole.,Ciupercile sunt roșii.
+Kadava si jekh ruv.,Acesta este un lup.
+Kajθar avel o ruv?,De unde vine lupul?
+O ruv avel anθar veś.,Lupul vine din pădure.
+Kaj avel o ruv kana si bokhalo?,Unde vine lupul când este flămând?
+Vov avel anθ-o gav!,El vine în sat.
+Kadava si jekh moxton.,Acesta este un cufăr.
+Sar si o moxton?,Cum este cufărul?
+O moxton si tikno.,Cufărul este mic.
+O moxton si nevo?,Cufărul este nou?
+Na. Kadava si purano.,Nu. Acest cufăr este vechi.
+Kadava si o ʒukel.,Acesta este câinele.
+Vov si lašho vi tiknorro.,El este bun și micuț.
+Kadava si jekh grast.,Acesta este un cal.
+Sar si o grast?,Cum este calul?
+O grast si ušo vi śukar.,Calul este înalt și frumos.
+O grast si parno?,Calul este alb?
+Na. Kadava grast si kalo.,Nu. Acest cal este negru.
+Lolo? Na! Kadava grast si kalo.,Roșu? Nu! Acest cal este negru.
+So si kathe?,Ce este aici?
+Kathe si jekh ušo xer.,Aici este un măgar înalt.
+Sar si o xer?,Cum este măgarul?
+O xer si terno.,Măgarul este tânăr.
+Va, kathe si nùmaj jekh xer.,Da, aici este numai un măgar.
+Vov si but śukar vi tikno.,El este foarte frumos și mic.
+rmy,ro
+Kadala si nìśte ruva.,Aceștia sunt niște lupi.
+Kajθar aven e ruva?,De unde vin lupii?
+E ruva aven anθar veś.,Lupii vin din pădure.
+Kaj aven e ruva kana si bokhale?,Unde vin lupii când sunt flămânzi?
+Von aven anθ-e gava.,Ei vin în sate.
+Kadala si duj moxtona.,Acestea sunt două cufere.
+Sar si e moxtona?,Cum sunt cuferele?
+E moxtona si tikne.,Cuferele sunt mici.
+E moxtona si neve?,Cuferele sunt noi?
+Na. Kadala moxtona si purane.,Nu. Aceste cufere sunt vechi.
+Kadala si ʒukela.,Aceștia sunt câini.
+Sar si von?,Cum sunt ei?
+Von si lašhe vi tiknorre.,Ei sunt buni și micuți.
+Kadala si nìśte grasta.,Aceștia sunt niște cai.
+Sar si e grasta?,Cum sunt caii?
+E grasta si uše vi śukar.,Caii sunt înalți și frumoși.
+E grasta si kale?,Caii sunt negri?
+Jekh grast si parno thaj jekh si kalo.,Un cal este alb iar unul este negru.
+Kodola grasta si lole?,Acești cai sunt roșii?
+Kothe si duj xera.,Acolo sunt doi măgari.
+Sar si kadala xera?,Cum sunt acești măgari?
+E xera si terne.,Măgarii sunt tineri.
+Kozom xera si kothe?,Câți măgari sunt acolo?
+Kathe si nùmaj duj xera.,Aici sunt doar doi măgari.
+Von si but śukar vi tikne.,Ei sunt foarte frumoși și mici.
+Kathe si jekh śośoj vi jekh śax.,Aici sunt un iepure și o varză.
+Sar si kadava śax?,Cum este această varză?
+O śax si zèleno.,Varza este verde.
+Kabor śaxa sine kathe?,Câte verze sunt aici?
+Anθ-o vurdon si jekh śaxorro.,În căruță este doar o verzișoară.
+So si kathe telal rukh?,Ce este aici sub copac?
+Si jekh daralo śośoj.,Este un iepure fricos.
+Si baro kadava śośoj?,Este mare acest iepure?
+O śośoj si barorro.,Iepurele este măricel.
+Kathe si nìśte śaxa.,Aici sunt niște verze.
+Von si zèlena.,Ele sunt verzi.
+Kobor śaxa si kothe anθ-o vurdon?,Câte verze sunt acolo în căruță?
+Kothe si śtar śaxa.,Acolo sunt patru verze.
+So si kothe opral o rukh?,Ce este acolo deasupra copacului?
+Si jekh kakaràśka.,Este o coțofană.
+Sar si kodoja širikli?,Cum este acea pasăre?
+Voj si kali vi parni.,Ea este neagră și albă.
+jekh,unu
+duj,doi
+trin,trei
+śtar,patru
+panʒ,cinci
+śov,șase
+efta,șapte
+oxto,opt
+enǎ,nouă
+deś,zece
+baro,mare
+barorro,măricel
+tikno,mic
+tiknorro,micuț
+śaxorro,verzișoară
+śtarorro,pătrățea
+anθ-o kher,în casă
+ka-o rukh,la copac
+ka-i len,la gârlă
+kazom,cât
+Aves vaj na aves?,Vii sau nu vii?
+Avav vi me!,Vin și eu!
+asal,râde
+aśunel,a auzi
+azbal,a atinge
+balo,porc
+beng,diavol
+daral,a se teme
+del,a da
+gilavni,cântăreață
+izdral,a tremura
+katùna,cort
+kerel,a lucra
+melalo,murdar
+pàrko,parc
+paśal,aproape
+phenel,a spune
+pherel,a umple
+prasal,a critica
+prastal,a fugi
+sali,cumnată
+salo,cumnat
+traśal,a-i fi frică
+tromal,a îndrăzni
+xal,a mânca
+xasal,a tuși
+xastral,a salva
+xulaj,stăpân
+zumavel,încerca
+So si kadava?,Ce este aceasta?
+Kadava si jekh gad.,Aceasta este o cămaşă.
+O gad si lolo.,Cămaşa este roşie.
+Si melalo kadava gad?,Este murdară această cămaşă?
+Na! Kadava gad si but uźo.,Nu! Această cămaşă este foarte curată.
+Nìśte neve gada.,Nişte cămăşi noi.
+Kajθar si kadala gada?,De unde sunt aceste cămăşi?
+Von si anθar fòros.,Ele sunt din oraş.
+Kazom gada si kathe?,Câte cămăşi sunt aici?
+Trin gada: duj tikne gada thaj jekh baro gad.,Trei cămăşi: două cămăşi mici şi o cămaşă mare.
+Kadava si jekh nakh.,Acesta este un nas.
+O nakh si gàlbeno?,Nasul este galben?
+Kadava nakh si lolo.,Acest nas este roşu.
+Kadava si jekh raklo vaj jekh šhavo?,Acesta este un băiat nerrom sau un băiat rrom?
+Vov si jekh raklo.,El este un băiat din afara etniei rrome.
+Kadava si jekh šhavo.,Acesta este băiat rrom.
+Kadava si jekh gaʒo.,Acesta este un gajeu.
+Kadava si jekh baśno.,Acesta este un cocoş.
+Kathe si jekh gono. Vov si gàlbeno.,Aici este un sac. El este galben.
+Vov si pherdo.,El este plin.
+Vov si paśal vurdon.,El este lângă căruţă.
+Kadava si jekh dikhlo.,Acesta este un batic.
+Kadava si jekh kòkalo.,Acesta este un os.
+Vov si parno.,El este alb.
+Kadava si jekh baxtalo pètalo.,Aceasta este o potcoavă norocoasă.
+Kadala si nakha.,Acestea sunt nasuri.
+Kadala nakha si gàlbena?,Aceste nasuri sunt galbene?
+E nakha si lole.,Nasurile sunt roşii.
+Von si rakle vaj šhave?,Ei sunt băieţi nerromi sau rromi?
+Kadala si duj rakle.,Aceştia sunt doi băieţi nerromi.
+Kathe si duj šhave.,Nu! Aici sunt doi băieţi rromi.
+Kadala si duj gaʒe.,Aceştia sunt doi gajei.
+Von si nìśte baśne!,Ei sunt nişte cocoşi.
+Kothe si śtar gone: duj si lole, thaj duj si zèlena.,Acolo sunt patru saci: doi sunt roşii, iar doi sunt verzi.
+Von si pherde.,Ei sunt plini.
+Von si anθa vurdon.,Ei sunt în căruţă.
+Kodola si deś dikhle.,Acelea sunt zece batice.
+Kadala si nìśte kòkala.,Acestea sunt nişte oase.
+Von hin parne.,Ele sunt albe.
+Kadala si nìśte baxtale pètala.,Acestea sunt nişte potcoave norocoase.
+Kathe si o veśàri.,Aici este pădurarul.
+Vov avel anθar veś.,El vine din pădure.
+Kothe si jekh purani phurt.,Acolo este un pod vechi.
+I phurt si kothe, kaj si jekh pani.,Podul este acolo, unde este o apă.
+Kathe si jekh guruvni!,Aici este o vacă!
+Kadala si duj veśàrǎ.,Aceştia sunt doi pădurari.
+Von aven anθar veśa.,Ei vin din păduri.
+Nìśte purane phurta.,Nişte poduri vechi.
+Von si kothe, kaj si panǎ.,Ele sunt acolo, unde sunt ape.
+Kathe si trin guruvnǎ.,Aici sunt trei vaci.
+akhor,nucă
+akhorlin,nuc
+amari,a noastră
+amaro,al nostru
+ambrol,pară
+ambrolin,păr pomul
+angrusti,inel
+bar,grădină
+barr,piatră
+bodlo,albastru
+šenǎ,cercei
+duripen,distanță
+icali,ardei
+jakh,ochi
+khethanes,împreună
+kilav,prună
+kilavlin,prun
+laça,cu ea
+laqe,ei îi i
+laqi,a ei
+laθe,în ea
+leça,cu el
+lença,cu ei
+lenqe,lor le li
+lenqi,a lor
+les,pe el
+lesqe,lui îi i
+lesqi,a lui
+lesθe,în el
+loli,roșie leguma
+mamux,porumbă fructul
+mamuxlin,porumbar
+mança,cu mine
+manqe,mie îmi mi
+manθe,în mine
+mirro,al meu
+murro,al meu
+pendex,alună
+pendexlin,alun
+phabaj,mărar
+phabajlin,măr pomul
+rup,argint
+sovnakaj,aur
+savorren,pe toți
+savorrença,cu toți
+stadǐ,pălărie
+śunel,a auzi
+taxtaj,pahar
+tiro,al tău
+tuça,cu tine
+tumari,a voastră
+tumen,pe voi
+tuqe,ție îți ți
+tut,pe tine te
+tuθe,în tine
+xaravli,curea
+xiro,castravete
+xurdo,mărunțel
+Aśunes man?,Mă auzi?
+Na, na śunav tut.,Nu, nu te aud.
+Savorre śunen savorren.,Toți îi aud pe toți.
+Mirro taxtaj si uźo sar si vi tiro.,Paharul meu este curat, cum este şi al tău.
+Tiri stadǐ si nevi, thaj tire jakha si melaxne.,Pălăria ta este nouă, iar ochii tăi sunt căprui.
+Mirre angrustika si anθar sovnakaj.,Inelele mele sunt din aur.
+Tire šenǎ sine anθar rup.,Cerceii tăi sunt din argint.
+Laqo dikhlo si zèleno, thaj lesqo xaravli si kalo.,Baticul ei este verde, iar cureaua lui este neagră.
+Amaro kher si parno, thaj tumaro si gàlbeno.,Casa noastră este albă, iar a voastră este galbenă.
+Lenqe khera si zèlena vi bodle.,Casele lor sunt verzi şi albastre.
+Amari bar si but buxli.,Curtea noastră este foarte largă.
+Tumari phabajlin si maj xurdi.,Mărul vostru este mai mic.
+Amare phabaja si lole.,Merele noastre sunt roşii.
+Kon del manqe o lil?,Cine îmi dă cartea?
+Me dav o lil tumenqe.,Eu vă dau cartea.
+Savorrenqe dav po jekh lil!,Tuturor le dau câte o carte!
+Me ʒav vi lesθe, vi laθe.,Eu merg și la el și la ea.
+Amenθe vi tumenθe si e love.,La noi și la voi sunt banii.
+Lenθar anav o thud thaj o kiral.,De la ei aduc laptele și brânza.
+Lesθar anav e akhora thaj e pendexa.,De la el aduc nucile și alunele.
+Lesθar anav e kilavǎ thaj e phabaja.,De la el aduc prunele și merele.
+Lesθar anav e ambrola thaj e mamuxa.,De la el aduc perele și porumbele.
+Laθar anav e icalǎ thaj e lolǎ.,De la ea aduc ardeii și roșiile.
+Laθar anav e xire thaj o śax.,De la ea aduc castraveții și varza.
+Ame ʒas lença vi tumença.,Noi mergem cu ei și cu voi.
+Ame ʒas leça thaj laça.,Noi mergem cu el și cu ea.
+Aśunes man?,Mă auzi?
+Na śunav tut.,Nu te aud.
+Les vi la śunav len.,Pe el și pe ea îi aud.
+Me śunav na nùmaj len tha‘ vi tumen!,Eu îi aud nu numai pe ei dar și pe voi!
+Savorre śunen savorren.,Toți îi aud pe toți.
+Tiri stadǐ si nevi.,Pălăria ta este nouă.
+Tire jakha si melaxne.,Ochii tăi sunt căprui.
+Mirre angrustika si anθar sovnakaj.,Inelele mele sunt din aur.
+Tire šenǎ sine anθar rup.,Cerceii tăi sunt din argint.
+Laqo dikhlo si zèleno.,Baticul ei este verde.
+Lesqo xaravli si kalo.,Cureaua lui este neagră.
+Lenqo kher si ušo vi purano.,Casa lor este înaltă şi veche.
+Lenqi bar si but tang.,Curtea lor este foarte îngustă.
+Lenqe khera si zèlena vi bodle.,Casele lor sunt verzi şi albastre.
+Amari bar si but buxli.,Curtea noastră este foarte largă.
+Amari bar si anθar barr.,Gardul nostru este din piatră.
+Tumari phabajlin si maj xurdi.,Mărul vostru este mai mic.
+Lenqi akhorlin si po ušo.,Nucul lor este mai înalt.
+Amare phabaja si lole.,Merele noastre sunt roşii.
+Tumare phabaja hin gàlbena.,Merele voastre sunt galbene.
+Me dav o lil tumenqe.,Eu vă dau cartea.
+Tuqe dav kadava nevo lil.,Ție îți dau această carte nouă.
+Lesqe me dav jekh lil.,Lui îi dau o carte.
+Laqe me dav jekh lil.,Ei îi dau o carte.
+Tumenqe me dav jekh lil.,Vouă vă dau o carte.
+Lenqe me dav jekh lil.,Lor le dau o carte.
+Savorrenqe dav po jekh lil!,Tuturor le dau câte o carte!
+Me ʒav vi lesθe vi laθe.,Eu merg și la el și la ea.
+Me ʒav vi lenθe.,Eu merg și la ei.
+Amenθe vi tumenθe si e love.,La noi și la voi sunt banii.
+Manθar von ʒan tuθe.,De la mine ei merg la tine.
+Amenθar ʒi tumenθe o drom si sajekh.,De la noi până la voi drumul este același.
+akharel,a chema
+anav,nume
+arakhel,a păzi
+aźutil,a ajuta
+baxt,noroc
+baśel,a lătra
+beśel,a locui
+berś,an
+šhinel,a tăia
+dandarel,a mușca
+vastdel,a ajuta
+dikhel,a privi
+famìlia,familie
+gilavel,a cânta
+godǎver,inteligent
+javin,dimineață
+kamel,a iubi
+kat,foarfecă
+kerel butǐ,a lucra
+kharel,a invita
+màmi,bunică
+mangel,a ruga
+nakhel,a trece
+nevipen,veste
+pàpus,bunic
+piel,a bea
+putarel,a deschide
+rakhel,a găsi
+ranin,dimineață
+rano,devreme
+rrajipen,domnie
+rrǎt,seară
+sastipen,sănătate
+sastrutno,metalic
+telǎrel,a pleca
+texarin,dimineață
+thovel,a spăla
+xanovel,a cositori
+zumavel,a proba
+ʒanel,a cunoaște
+anθre,înăuntru
+avri,afară
+baśavel,a cânta la instrument
+bikinel,a vinde
+briśind,ploaie
+buzni,capră
+buznorro,ied
+śirikli,pasăre
+derăv,mare
+dǐv,grâu
+diz,oraș
+inklǒl,a ieși
+kafàva,cafea
+karing,spre
+khelel,a juca
+kinel,a cumpăra
+kursànto,cursant
+masno,măcelar
+mekhel,a ierta
+milaj,vară
+paramìši,poveste
+patăl,a crede
+pàuza,pauză
+perel,a cădea
+piàno,pian
+pušhel,a întreba
+sekretàro,secretar
+sigipen,viteză
+siklărno,profesor
+siklǒvel,a învăța
+skamìnd,scaun
+śkòla,școală
+sosθar,de ce
+turìsto,turist
+thabarel,a aprinde
+vakărel,a vorbi
+xatărel,a înțelege
+marel,a bate
+mudarel,a omorî
+phirel,a umbla
+phusel,a înțepa
+pravarel,a hrăni
+śoldel,a fluiera
+udar,ușă
+vaxt,timp
+vazdel,a ridica
+šajlŏl man,îmi place
+šang,genunchi
+šèros,cer
+dujarel pes,a se îndoi
+ingăr,duce
+lašho svàto,sfat bun
+mamuj,față de
+ròba,roabă
+ròbo,rob
+ruvdimos,răbdare
+sumnal,sfânt
+svakodĭvesutno,de zi cu zi
+te zorăres,a îmbărbătezi
+thagarimos,împărăție
+trup,corp
+skäpisar,scapă
+xurdo,pitic
+mança,cu mine
+manqe,mie
+manθar,de la mine
+manθe,în mine
+tuça,cu tine
+tuqe,ție
+tuθar,de la tine
+tuθe,în tine
+lesqe,lui
+lesθar,de la el
+lesθe,în el
+laqe,ei
+laθar,de la ea
+laθe,în ea
+amença,cu noi
+amenqe,nouă
+amenθar,de la noi
+amenθe,în noi
+tumença,cu voi
+tumenqe,vouă
+tumenθar,de la voi
+tumenθe,în voi
+lença,cu ei
+lenqe,lor
+lenθar,de la ei
+lenθe,în ei
